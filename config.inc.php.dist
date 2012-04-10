@@ -1,0 +1,11 @@
+<?php
+
+// Help content iframe source
+// $rcmail_config['help_source'] = 'http://trac.roundcube.net/wiki';
+$rcmail_config['help_source'] = '';
+$rcmail_config['otrs_queues']=array('Queue1','Queue2','Queu3');
+$rcmail_config['otrs_rpc_url']='https://www.example/otrs/rpc.pl';
+$rcmail_config['otrs_rpc_username']='rpc_username';
+$rcmail_config['otrs_rpc_password']='rpc_pasword';
+
+?>

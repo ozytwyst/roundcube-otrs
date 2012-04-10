@@ -1,0 +1,9 @@
+#taskbar a.button-otrs
+{
+  background-image: url('otrs.png');
+}
+
+#tablink a
+{
+  color: #900;
+}
